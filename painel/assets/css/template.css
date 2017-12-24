@@ -1,0 +1,50 @@
+body{
+	margin: 0;
+}
+.topo{
+	height: 40px;
+	background: #333;
+	color: #FFF;
+}
+.topo a{
+	color:#FFF;
+	text-decoration: none;
+
+}
+.cursos_edit{
+	width: 150px;
+	height: 150px;
+}
+.topo a div{
+	float: left;
+	height: 40px;
+	line-height: 40px;
+	padding-right: 20px;
+	padding-left: 20px;
+}
+.topo a div:hover{
+	background-color: #BBB;
+}
+.topousuario{
+	float: right;
+	margin-right: 20px;
+	height: 40px;
+	line-height: 40px
+
+}
+h4{
+	background-color: #DDD;
+	height: 35px;
+	line-height: 35px;
+	padding-left: 20px;
+	margin: 0px;
+}
+h5{
+	height: 35px;
+	line-height: 35px;
+	padding-left: 40px;
+	margin: 0px;
+}
+#corpo_edit{
+	padding-left: 20px;
+}

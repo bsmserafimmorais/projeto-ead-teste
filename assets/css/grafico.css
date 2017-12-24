@@ -1,0 +1,28 @@
+.clientes{
+	background: #222;
+	color: #FFF;
+	height: auto;
+	padding-top: 50px; 
+}
+.clientes > h1{
+	text-align: center;
+}
+.clientes > ul{
+	text-decoration: none;
+	list-style: none;
+}
+.clientes > ul > li{
+	padding: 10px;
+	font-size: 20px;
+}
+.table > thead {
+	background: #222;
+	color: #FFF;
+} 
+.processo{
+	padding-top: 50px;
+	width: auto;
+}
+.processo > h1{
+	text-align: center;
+}
